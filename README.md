@@ -29,6 +29,8 @@
 <p>For example, this (slightly complicated) code will create an interactive map showing the locations of the three largest smartphone companies in 2016. You can move and zoom the map, and you can click the markers for more info! </p>
 
 ![image](https://github.com/MohebAwichewi/Introduction-to-Jupyter-Notebooks-Exploring-Data-Analysis-and-Visualization/assets/149394585/c52e271b-eb96-4d56-ad5b-71649b760f8f)
+![image](https://github.com/MohebAwichewi/Introduction-to-Jupyter-Notebooks-Exploring-Data-Analysis-and-Visualization/assets/149394585/9fbfcdcd-53e8-4067-b636-90c971da4590)
+
 
 ## 6. Goodbye for now!
 <p>This was just a short introduction to Jupyter notebooks, an open source technology that is increasingly used for data science and analysis. I hope you enjoyed it! :)</p>
