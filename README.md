@@ -33,6 +33,4 @@
 
 
 ## 6. Goodbye for now!
-<p>This was just a short introduction to Jupyter notebooks, an open source technology that is increasingly used for data science and analysis. I hope you enjoyed it! :)</p>
 
-![image](https://github.com/MohebAwichewi/Introduction-to-Jupyter-Notebooks-Exploring-Data-Analysis-and-Visualization/assets/149394585/7bef7ccf-369b-4a67-8558-ea76cf5c929c)
